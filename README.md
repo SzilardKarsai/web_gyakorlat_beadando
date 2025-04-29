@@ -1,0 +1,1 @@
+# web_gyakorlat_beadando
