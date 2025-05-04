@@ -1,0 +1,22 @@
+h3 {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+p {
+  margin-bottom: 20px;
+}
+h5 {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.citing {
+  font-size: 12px;
+  font-weight: lighter;
+}
+img {
+  border-radius: 20px;
+  box-shadow: gray 7px 7px 6px;
+}
+.imageException {
+  box-shadow: 0 0;
+}
